@@ -17,7 +17,7 @@ React application that demonstrates how to fetch and display random dog images u
 
 ## Demo
 
-![Dog API](./assets/demo.png)
+![Dog API](./src/assets/demo.png)
 
 1. On load, the app fetches a random dog image and displays a loading indicator.  
 2. Click the **Woof Woof** button to fetch a new image.
